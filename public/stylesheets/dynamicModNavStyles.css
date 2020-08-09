@@ -1,0 +1,9 @@
+.active-panel{
+    background-color: blueviolet;
+    height: 92.75%;
+    overflow: scroll;
+}
+  
+.inactive-panel{
+    display: none;
+}
